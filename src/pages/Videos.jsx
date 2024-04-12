@@ -1,7 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import axios from 'axios';
+import Grid from '@mui/material/Grid';
 import HourglassTopIcon from '@mui/icons-material/HourglassTop';
 import WarningAmberIcon from '@mui/icons-material/WarningAmber';
 import VideoCard from "../components/VideoCard";
@@ -19,25 +20,23 @@ export default function Videos() {
               .get(`/data/${keyword ? 'search' : 'popular'}.json`)
               // .get(uri)
               .then(res => res.data.items);
+              // .then(res => keyword ? res.data.items.shift() : res.data.items);
     },
     staleTime: 1000 * 60 * 1,       // 1분, ms 단위로 지정할 수 있음
   });
-  // useEffect(() => {
-  //   axios.get(`/data/${keyword ? 'search' : 'popular'}.json`)
-  //     .then(res => {
-  //       setVideos(res.data.items);
-  //       console.log(videos);
-  //     });
-  // }, [keyword]);
+
   return (
     <>
-      {/* <div>Videos {keyword ? `${keyword}로 검색` : 'Hot Trend'}</div> */}
       {isLoading && <p><HourglassTopIcon /> Loading...</p>}
       {error && <p><WarningAmberIcon /> Something is wrong!!!</p>}
       {videos && (
-        <ul>
-          {videos.map(video => <VideoCard video={video} />)}
-        </ul>
+        <Grid container spacing={1}>
+          {videos.map(video => (
+            <Grid item xs={12} sm={6} md={4} lg={3}>
+              <VideoCard video={video} />
+            </Grid>
+          ))}
+        </Grid>
       )}
     </>
   )
