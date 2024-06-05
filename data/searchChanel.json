@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EAN2zCnezI4KaRT3O0ehh5ZsiG0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 374524,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yHzysTydt1Dk1b-hKFejj0H4Uqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eLP3LO1PwEg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-09T21:38:03Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "WATCH LIVE Western Australia Margaret River Pro 2024 - Day 1",
+        "description": "WATCH LIVE April 11-21 on worldsurfleague.com. Shop official merchandise from the 2024 Margaret River Pro by Rusty on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLP3LO1PwEg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLP3LO1PwEg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLP3LO1PwEg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-04-09T21:38:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nippTGbU2PdpSHEvlWP-S73Fn6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8XLAffOUMrI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T18:11:43Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Was this the best floater of all-time? 🤯 @GabrielMedina10",
+        "description": "Watch the #HurleyProSunsetBeach, Feb 12-23 on worldsurfleague.com. @hurley Shop 2023 official CT jerseys and new posters ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XLAffOUMrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XLAffOUMrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XLAffOUMrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T18:11:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1hhaEPCk5rimF9L9TYBMa7P20OA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLQ3-3sUOFLfFz0_bkjmUJ0NC438mX-wbA"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-08T00:41:43Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Lineup with Dave Prodan",
+        "description": "World Surf League's Dave Prodan breaks things down with influential figures from all across the surf landscape. Hear their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jqodarcB4jY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jqodarcB4jY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jqodarcB4jY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-08T00:41:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R5tc0PZyjQQ-Ujr66M2qxDbd00Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u32AN5HhYAo"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-09T21:44:11Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "ASSISTA AO VIVO Western Australia Margaret River Pro 2024 - Dia 1",
+        "description": "Compre mercadorias oficiais do 2024 Margaret River Pro da Rusty em WSLStore.com: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u32AN5HhYAo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u32AN5HhYAo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u32AN5HhYAo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-04-09T21:44:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mE_InXf9FH1HjOuNF9oBg9WZQ5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yj3glX21pY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T22:33:10Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The last time @john_john_florence competed at the Surf Ranch he dropped this 9.80 🤯",
+        "description": "Limited-edition 2023 Official Championship Tour tees available now: https://www.wslstore.com/collections/... Shop 2023 official CT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yj3glX21pY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yj3glX21pY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yj3glX21pY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T22:33:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RyyKJApyoj6cplc3IRaQz6V9kWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cQZj3ipvt-k"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-29T13:46:48Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "LAST MINUTE HEROICS Kanoa Igarashi 8.17 Gets Him The Win 2018 Vans US Open Of Surfing #shorts",
+        "description": "Kanoa Igarashi gets the win at the 2018 Vans US Open with his heat turning 8.17 vs Griffin Colapinto. @vanssurf ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQZj3ipvt-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQZj3ipvt-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQZj3ipvt-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-29T13:46:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fHs7peIWinqltXCVoaIAnpJaX8I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a2ml6D96Rqc"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-07T20:35:11Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "North Atlantic Kicks Off 2022 With Wild Day At Nazare | HIGHLIGHTS",
+        "description": "With the swell building all day, and some very challenging conditions, a handful of elite big-wave chargers were up to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2ml6D96Rqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2ml6D96Rqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2ml6D96Rqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-07T20:35:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OLH-OvQnog7k31_e05X6BSyuYNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rHFzuhatavA"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-13T03:35:29Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Goal accomplished but the job ain’t over yet! See you on Finals Day @taliaswindal!",
+        "description": "Goal accomplished but the job ain't over yet! See you on Finals Day @taliaswindal! Next Call: 7:15 am PST @sambazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHFzuhatavA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHFzuhatavA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHFzuhatavA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-13T03:35:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yeN2vvd6AwddcgrMV3KokZetB1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DIe61CTVHbk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T19:35:16Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Catch Up Finals Day | MEO Rip Curl Pro Portugal",
+        "description": "At the end of a pumping Finals Day at Supertubos, two budding superstars came away with their first career wins. Brazilian Joao ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIe61CTVHbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIe61CTVHbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIe61CTVHbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T19:35:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vwSamAdGRgZbgo8OQygn0BKNrFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tar6Lj9ZSPs"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-16T22:09:08Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Rise of Frederico Morais: Athlete Profile",
+        "description": "While Frederico Morais made quite an impact last year, he maintains all the trappings of a hidden threat. He thrives in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tar6Lj9ZSPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tar6Lj9ZSPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tar6Lj9ZSPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-16T22:09:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tYAcdusDQySn1z2yqafozhp8pfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UGhVVGtudfA"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T21:55:40Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Road To The Rip Curl WSL Finals: Tatiana Weston-Webb And The Power Of Self-Belief",
+        "description": "Finishing the 2021 CT season ranked No. 2 in the world, Weston-Webb has a defining trait that's served her well this season: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UGhVVGtudfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UGhVVGtudfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGhVVGtudfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T21:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Et34vrRJLM3I0n9c2gMBO_8-uQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "elCC2O7-JmM"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T22:30:08Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "What You Need To Know - Western Australia Margaret River Pro 2024",
+        "description": "Shop official merchandise from the 2024 Margaret River Pro by Rusty on WSLStore.com: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/elCC2O7-JmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/elCC2O7-JmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/elCC2O7-JmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T22:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Assg-lZ10--RLm9c9aZugWjt9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L3a8LEbSr-Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-04T15:00:24Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "CT Rankings Update: The California Sweep Has SoCal Top Dogs Rocking Yellow In Western Australia",
+        "description": "Shop official merchandise from the 2024 Margaret River Pro by Rusty on WSLStore.com: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L3a8LEbSr-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L3a8LEbSr-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3a8LEbSr-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-04T15:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PqqibqapsKDEI0P7Swa0fbfHO88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "di2opEepF88"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-03T00:05:57Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Day 4 Highlights Billabong Pro Pipeline | World Champs And Wildcards Make More History At Pipe",
+        "description": "From Moana Jones Wong to Carissa Moore and Tyler Wright, moving day at the Billabong Pro Pipe enjoyed all kinds of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/di2opEepF88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/di2opEepF88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/di2opEepF88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-03T00:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9B4oa0i_d7Iz6dwKNtryTkxpwmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CIXbZPHLv2o"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-24T15:35:02Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Sebastian Steudtner GUINNESS WORLD RECORDS™ Title For The Largest Wave Surfed (unlimited) - male",
+        "description": "Sebastian Steudtner (GER) set a new GUINNESS WORLD RECORDS™ title for the largest wave surfed (unlimited) - male. As part ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIXbZPHLv2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIXbZPHLv2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIXbZPHLv2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-24T15:35:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oWC1U8Ygsf37gaooJaG6RfWhYTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VXxN0WcNH88"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-01T18:17:15Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Bioglan Daily Dose: Top 5 Moments | Rip Curl Pro Bells Beach Quarterfinals",
+        "description": "The Quarterfinal matchup Top 5 list comprised of the masses on Bells Beach for another bright Easter weekend, Simmers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VXxN0WcNH88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VXxN0WcNH88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VXxN0WcNH88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-01T18:17:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u_cqRWbdq80stTrvJvh4w844kMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_W9JPMH7bVI"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-16T02:55:30Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Day 1 Highlights | Florence Sets The Pace Early At Hurley Pro Sunset Beach",
+        "description": "John John Florence came out swinging, while Kelly Slater managed to dodge elimination on the opening day at Sunset.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_W9JPMH7bVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_W9JPMH7bVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_W9JPMH7bVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-16T02:55:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ztpqbw__PQJMSwzcF2FtXULh0VM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8R047aw4Ohk"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-04T14:33:24Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Sara Freyre Is Back At Home And Jack&#39;s Surfboards Pro Ready",
+        "description": "After her first full year competing among North America's QS contingent, Sara Freyre finished No. 8 and now returns home to Surf ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8R047aw4Ohk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8R047aw4Ohk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8R047aw4Ohk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-04T14:33:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ImJmQIE2eAlUcFeB15DTR2pcMHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "um1P3rrue7Y"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-17T23:01:00Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Congratulations Gabriel Medina, 2018 World Champion",
+        "description": "Bicampeão! Gabriel Medina just became the first Brasilian in history to win two World Titles. Medina's 2018 Title win puts him in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/um1P3rrue7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/um1P3rrue7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/um1P3rrue7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-17T23:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y2UhmTbAJUQGFXPI3Vm3sonE7NQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rwy769iOb_o"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-03T00:59:32Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Caroline Marks vs Caitlin Simmers | Rip Curl Pro Bells Beach pres by Bonsoy 2024 - Semifinals",
+        "description": "Shop official merchandise from the 2024 Rip Curl Pro Bells Beach and the Championship Tour at http://wslstore.com/ Bells Beach ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rwy769iOb_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rwy769iOb_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rwy769iOb_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-03T00:59:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FfV0cLlQWECphCnr9oHdoSN359I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NJvYrzywHB8"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-30T03:05:00Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Highlights Billabong Pro Pipe Day 1",
+        "description": "Picture-perfect Pipe conditions made for some seriously epic performances on a dreamy opening day at the Billabong Pro Pipe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJvYrzywHB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJvYrzywHB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJvYrzywHB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-30T03:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9lNiWdCLiqUhBItrUw_6aneqIvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UrllgnM2pio"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-01T02:29:42Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Risking It All for the Big Reward: Kanoa Igarashi Profile",
+        "description": "The Igarashis risked it all when they moved from Japan to California to give their son a fighting chance at becoming a pro surfer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UrllgnM2pio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UrllgnM2pio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UrllgnM2pio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-01T02:29:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MTcjGysJpRHJ2vDeEhyn2ijYSnw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UgMEyOjhuWk"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-03T05:22:57Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "ALL THE HIGHLIGHTS // Rip Curl Pro Bells Beach presented by Bonsoy 2024",
+        "description": "61 Bells have now been rung with Cole Houshmand and Caitlin Simmers making their rings heard around the world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UgMEyOjhuWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UgMEyOjhuWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgMEyOjhuWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-03T05:22:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g8RNCWTThO6ucB1E3Tvlm9_jnt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zHdoeuzllP4"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T21:55:56Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Road To The Rip Curl WSL Finals: The Relentless Drive Of Sally Fitzgibbons",
+        "description": "Fitzgibbons has come close to winning a World Title more than once, but 2021 may be her best opportunity yet to achieve her ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zHdoeuzllP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zHdoeuzllP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zHdoeuzllP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T21:55:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pvUNE5EY_TrYplIJC0g2w7eTuuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0mZ4zs3hQss"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T21:56:05Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "The Road To The Rip Curl WSL Finals: Conner Coffin And The Pursuit Of The California Dream",
+        "description": "It's been over 30 years since a man from California won a World Title, but with a little bit of rail work, Conner Coffin could change ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mZ4zs3hQss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mZ4zs3hQss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mZ4zs3hQss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T21:56:05Z"
+      }
+    }
+  ]
+}
